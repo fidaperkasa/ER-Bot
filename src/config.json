@@ -1,0 +1,6 @@
+{
+    "bot_token": "TOKEN HERE",
+    "feed_url": "https://LINK_RSS_HERE/rss/",
+    "update_interval": 3600,
+    "channel_id": CHANNEL_ID_HERE
+}
