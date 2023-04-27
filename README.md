@@ -1,6 +1,14 @@
 # ER-Bot
 Eagle RSS BOT is a Python script that uses the Discord.py library to post updates from an RSS feed to a Discord channel.
 
+# Getting Started
+## Prerequisites
+To use this bot, you need to have the following software installed:
+
+* Python 3.x
+* Discord Bot using your own Discord Account
+
+
 ## Installation
 * Clone the repository: git clone `https://github.com/yourusername/discord-rss-bot.git`
 * Install dependencies: `pip install -r requirements.txt`
