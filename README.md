@@ -14,10 +14,10 @@ To use this bot, you need to have the following software installed:
 * Install dependencies: `pip install -r requirements.txt`
 * Create a `config.json` file with your bot token, feed URL, update interval, and channel ID. Example:
   ```{
-    "bot_token": "your-bot-token",
-    "feed_url": "https://example.com/feed.xml",
+    "bot_token": "TOKEN HERE",
+    "feed_url": "https://LINK_RSS_HERE/rss/",
     "update_interval": 3600,
-    "channel_id": 123456789012345678
+    "channel_id": CHANNEL_ID_HERE
     }
     ```
 * Run the bot: python `botfeed.py` or `run.cmd`
